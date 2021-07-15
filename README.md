@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryandeweijer
 - 👀 I’m interested in adding value to a company that prioritises and offers challenging experiences and has a tangible positive impact on the world. 
-- 🌱 I’m currently involved in a number of projects of differing scales, and looking to further broaden my professional experience.
+- 🌱 I’m currently involved in a number of projects of differing magnitudes, and looking to further broaden my professional experience.
 - 📫 How to reach me: ryan.m.deweijer@gmail.com 
 
 <!---
